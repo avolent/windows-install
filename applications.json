@@ -1,0 +1,76 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.1.0.json",
+    "WinGetVersion": "0.3.11201",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "Id": "Discord.Discord",
+                    "Version": "1.0.9004"
+                },
+                {
+                    "Id": "Microsoft.WindowsTerminal",
+                    "Version": "1.12.10983.0"
+                },
+                {
+                    "Id": "VivaldiTechnologies.Vivaldi",
+                    "Version": "5.2.2623.39"
+                },
+                {
+                    "Id": "ShareX.ShareX",
+                    "Version": "13.7.0"
+                },
+                {
+                    "Id": "Nvidia.GeForceExperience",
+                    "Version": "3.25.1.27"
+                },
+                {
+                    "Id": "Valve.Steam",
+                    "Version": "2.10.91.91"
+                },
+                {
+                    "Id": "Obsidian.Obsidian",
+                    "Version": "0.14.6"
+                },
+                {
+                    "Id": "Spotify.Spotify",
+                    "Version": "1.1.86.857.g3751ee08"
+                },
+                {
+                    "Id": "RARLab.WinRAR",
+                    "Version": "6.11.0"
+                },
+                {
+                    "Id": "Git.Git",
+                    "Version": "2.36.1"
+                },
+                {
+                    "Id": "Microsoft.VisualStudioCode",
+                    "Version": "1.67.2"
+                },
+                {
+                    "Id": "Blitz.Blitz",
+                    "Version": "1.16.47"
+                },
+                {
+                    "Id": "ColdTurkeySoftware.ColdTurkeyBlocker",
+                    "Version": "4.3"
+                },
+                {
+                    "Id": "Google.Drive",
+                    "Version": "57.0.5.0"
+                },
+                {
+                    "Id": "KeePassXCTeam.KeePassXC",
+                    "Version": "2.7.0"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://winget.azureedge.net/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ]
+}
