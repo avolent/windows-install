@@ -5,49 +5,49 @@
         {
             "Packages": [
                 {
-                    "Id": "Discord.Discord",
+                    "Id": "Discord.Discord"
                 },
                 {
-                    "Id": "Microsoft.WindowsTerminal",
+                    "Id": "Microsoft.WindowsTerminal"
                 },
                 {
-                    "Id": "VivaldiTechnologies.Vivaldi",
+                    "Id": "VivaldiTechnologies.Vivaldi"
                 },
                 {
-                    "Id": "ShareX.ShareX",
+                    "Id": "ShareX.ShareX"
                 },
                 {
-                    "Id": "Nvidia.GeForceExperience",
+                    "Id": "Nvidia.GeForceExperience"
                 },
                 {
-                    "Id": "Valve.Steam",
+                    "Id": "Valve.Steam"
                 },
                 {
-                    "Id": "Obsidian.Obsidian",
+                    "Id": "Obsidian.Obsidian"
                 },
                 {
-                    "Id": "Spotify.Spotify",
+                    "Id": "Spotify.Spotify"
                 },
                 {
-                    "Id": "RARLab.WinRAR",
+                    "Id": "RARLab.WinRAR"
                 },
                 {
-                    "Id": "Git.Git",
+                    "Id": "Git.Git"
                 },
                 {
-                    "Id": "Microsoft.VisualStudioCode",
+                    "Id": "Microsoft.VisualStudioCode"
                 },
                 {
-                    "Id": "Blitz.Blitz",
+                    "Id": "Blitz.Blitz"
                 },
                 {
-                    "Id": "ColdTurkeySoftware.ColdTurkeyBlocker",
+                    "Id": "ColdTurkeySoftware.ColdTurkeyBlocker"
                 },
                 {
-                    "Id": "Google.Drive",
+                    "Id": "Google.Drive"
                 },
                 {
-                    "Id": "KeePassXCTeam.KeePassXC",
+                    "Id": "KeePassXCTeam.KeePassXC"
                 }
             ],
             "SourceDetails": {
