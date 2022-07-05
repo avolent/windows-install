@@ -1,4 +1,10 @@
 # Winget Install File
+## Winget Installation
+1. Go to microsoft store.
+2. Search and install "App Installer"
+3. Confirm the command `winget` works in the terminal.
+
+## Program installations
 To install all the applications run the following command in the directory of applications.json
 
 ```winget import --import-file "applications.json"``` 
